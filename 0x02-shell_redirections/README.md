@@ -1,0 +1,1 @@
+this is shell redirections project lets go hit todays millstone here les go 
