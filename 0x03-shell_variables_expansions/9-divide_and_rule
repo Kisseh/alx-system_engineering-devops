@@ -1,2 +1,3 @@
 #!/bin/bash
 echO $((POWER/DIVIDE))
+
