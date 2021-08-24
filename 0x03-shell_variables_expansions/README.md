@@ -1,0 +1,1 @@
+this is shell variables expansions project i will expect to lear more from this project horray les go
